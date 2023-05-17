@@ -1,4 +1,4 @@
-# three_expense_tracker_app
+# Expense tracker app
 
 A new Flutter project.
 
